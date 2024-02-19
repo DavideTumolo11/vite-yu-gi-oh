@@ -12,8 +12,8 @@ export default {
         </div>
     </header>
 </template>
-  
-  
+
+
 <style scoped>
 header {
     background-color: var(--ygo-lighter);
